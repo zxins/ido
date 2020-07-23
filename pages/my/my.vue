@@ -1,7 +1,7 @@
 <template>
 	<view class="grace-padding">
 		<view class="myface">
-			<image :src="myFace" mode="widthFix"></image>
+			<image :src="face" mode="widthFix"></image>
 		</view>
 		<view class="grace-box-banner" style="margin:30rpx 0;">
 			<view class="grace-items" style="margin: 0 auto;">
